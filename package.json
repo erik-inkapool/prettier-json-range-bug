@@ -1,0 +1,16 @@
+{
+  "name": "prettier-json-range-bug",
+  "version": "1.0.0",
+  "description": "Prettier json range bug repro",
+  "main": "index.js",
+  "repository": "https://github.com/erik-lundgren/prettier-json-range-bug",
+  "author": "Erik Lundgren <erik@lundgren.cc>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "prettier": "^1.10.2"
+  }
+}
